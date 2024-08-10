@@ -1,3 +1,10 @@
+* Author: Susan Wu
+* Date: 2024-6-30
+* Project: Guessing Game
+* Purpose: This program implements a number guessing game where the user guesses a number between 1 and 100. 
+*          The program provides feedback on whether the guess is too high or too low and tracks overall statistics.
+*/
+
 import java.util.Random;
 import java.util.Scanner;
 
